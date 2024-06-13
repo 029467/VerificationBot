@@ -14,3 +14,4 @@ class Config(object):
     SESSION_NAME = os.environ.get("SESSION_NAME", "Captcha-Bot")
     GROUP_CHAT_ID = int(os.environ.get("GROUP_CHAT_ID", -100))
     CAPTCHA_API_TOKEN = os.environ.get("CAPTCHA_API_TOKEN", "")
+dikggh
